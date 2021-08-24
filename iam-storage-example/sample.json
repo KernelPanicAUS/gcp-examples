@@ -1,0 +1,9 @@
+{
+  "delegates": [
+    "projects/-/serviceAccounts/shushu@cloudrun-testing-321019.iam.gserviceaccount.com"
+  ],
+  "scope": [
+    "https://www.googleapis.com/auth/cloud-platform"
+  ],
+  "lifetime": "300s"
+}
